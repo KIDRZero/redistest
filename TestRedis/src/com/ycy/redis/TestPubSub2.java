@@ -1,8 +1,8 @@
-package com.ycy.redis;
+ï»¿package com.ycy.redis;
 
 import redis.clients.jedis.Jedis;
 /*
- * ÕâÀïµ±¸ö·¢²¼Õß
+ * è¿™é‡Œå½“ä¸ªå‘å¸ƒè€…
  */
 public class TestPubSub2 {
    public static void main(String[] args) {
